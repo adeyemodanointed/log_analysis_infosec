@@ -1,0 +1,6 @@
+data/
+venv/
+output/
+LibreLog/
+.DS_Store
+idea/
